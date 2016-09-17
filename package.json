@@ -1,5 +1,3 @@
-// package.json identifies npm package 
-// dependencies for the project.
 {
   "name": "through2angular2",
   "version": "1.0.0",

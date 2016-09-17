@@ -1,6 +1,3 @@
-// typings.json provides additional definition 
-// files for libraries that the TypeScript compiler 
-// doesn't natively recognize.
 {
   "globalDependencies": {
     "core-js": "registry:dt/core-js#0.0.0+20160725163759",

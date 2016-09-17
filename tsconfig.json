@@ -1,5 +1,3 @@
-// tsconfig.json defines how the TypeScript compiler generates 
-// JavaScript from the project's files.
 {
   "compilerOptions": {
     "target": "es5",
